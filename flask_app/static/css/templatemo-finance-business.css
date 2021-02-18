@@ -251,6 +251,9 @@ header .navbar {
 .background-header .navbar {
   padding: 10px 0px;
 }
+/* #smallest {
+  font-size: small; */
+}
 .background-header {
   top: 0;
   position: fixed;
